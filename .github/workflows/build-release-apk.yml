@@ -32,6 +32,8 @@ jobs:
 
       - name: Install Android SDK packages
         uses: android-actions/setup-android@v3
+        with:
+          packages: platform-tools
 
       - name: Build release APK
         run: gradle --no-daemon clean assembleRelease
