@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "906100338495",
+    "firebase_url": "https://sx-box-default-rtdb.firebaseio.com",
+    "project_id": "sx-box",
+    "storage_bucket": "sx-box.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906100338495:android:fc271b8fd5d05edf25ad8a",
+        "android_client_info": {
+          "package_name": "com.skbox.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906100338495-le0cttk595jfjll7qh7rjeiqn0hm4mjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjSIUXJI6vFz905_Sr6-mACLLZfSRlI3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906100338495-le0cttk595jfjll7qh7rjeiqn0hm4mjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906100338495:android:9c87b6e03dd0518825ad8a",
+        "android_client_info": {
+          "package_name": "com.skbox.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906100338495-le0cttk595jfjll7qh7rjeiqn0hm4mjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjSIUXJI6vFz905_Sr6-mACLLZfSRlI3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906100338495-le0cttk595jfjll7qh7rjeiqn0hm4mjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
