@@ -142,7 +142,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:layout_margiskboxorizontal="8dp"
+                android:layout_marginHorizontal="8dp"
                 android:ellipsize="end"
                 android:maxLines="1"
                 android:textColor="@android:color/white"
@@ -208,7 +208,7 @@
                 android:background="@drawable/skbox_bg_play_btn"
                 android:src="@drawable/skbox_ic_play"
                 android:contentDescription="Play/Pause"
-                android:layout_margiskboxorizontal="24dp" />
+                android:layout_marginHorizontal="24dp" />
 
             <ImageButton
                 android:id="@+id/btn_next_skbox"
